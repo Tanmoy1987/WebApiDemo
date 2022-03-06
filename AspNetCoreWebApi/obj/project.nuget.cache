@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPllyATh8qJgu5YwxIySJ9ChOuF9jBfsA0hSJgKKgZGZvgqrcZpbpQ9ZUcyWObmdqdL+Sz1NkjH+PJp4Un9/Yg==",
+  "success": true,
+  "projectFilePath": "F:\\dotnet\\webapi\\AspNetCoreWebApi\\AspNetCoreWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\5.0.14\\microsoft.aspnetcore.authentication.negotiate.5.0.14.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.14\\microsoft.aspnetcore.connections.abstractions.5.0.14.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.14\\microsoft.aspnetcore.http.features.5.0.14.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.4\\microsoft.netcore.platforms.5.0.4.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\system.directoryservices.protocols\\5.0.1\\system.directoryservices.protocols.5.0.1.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\omen\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
